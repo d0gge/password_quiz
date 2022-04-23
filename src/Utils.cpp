@@ -6,11 +6,11 @@ namespace utils
 void ClearConsole()
 {
 #ifdef _WIN32
-  system("cls")
+  system("cls");
 #endif
 
 #ifdef __unix__
-      system("clear");
+  system("clear");
 #endif
 }
 } // namespace utils
