@@ -4,7 +4,7 @@ Console quiz to spend some time.
 ## Installation
 
 # REQUIREMENTS
-If you want to install this you have to have cmake of 3.20 or higher version. Follow link to get to official [website](https://cmake.org/).
+If you want to install this you have to have cmake of 3.20 or higher version. Follow link to get to the official [website](https://cmake.org/).
 
 1. Clone repo
 ```
