@@ -37,4 +37,4 @@ or
 cmake --build . --config Release
 ```
 
-Binary files are place at `build/bin/` on linux and `build/YourBuildType/bin` on windows
+Binary files are place at `build/bin/` on linux and `build/bin/YourBuildType` on windows
